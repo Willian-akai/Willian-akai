@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ⛩️🌸
 
-<!--
-**Willian-akai/Willian-akai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Willian Santana
 
-Here are some ideas to get you started:
+- Estou estudando Python e C++
+- Tenho um [canal](https://www.youtube.com/@RuddSata) de tutorias e coisas que eu gosto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📨
+
+Mande email williansantana048@gmail.com
+
+Entre no meu servidor do [Discord](discord.gg/picles)
+
+![](https://gifdb.com/images/high/funny-anime-finger-spin-a872bi7ql5gjp04k.webp)
