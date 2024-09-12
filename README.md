@@ -9,6 +9,6 @@ Meu nome é Willian Santana
 
 Mande email williansantana048@gmail.com
 
-Entre no meu servidor do [Discord](discord.gg/picles)
+Entre no meu servidor do [Discord](discord.gg/k8XDKHPW)
 
 ![](https://gifdb.com/images/high/funny-anime-finger-spin-a872bi7ql5gjp04k.webp)
